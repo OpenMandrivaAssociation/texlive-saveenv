@@ -3,7 +3,7 @@ Version:	65346
 Release:	1
 Summary:	Save environment content verbatim
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/saveenv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/saveenv
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/saveenv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/saveenv.doc.r%{version}.tar.xz
